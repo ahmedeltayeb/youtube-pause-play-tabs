@@ -1,5 +1,6 @@
 # youtube-pause-play-tabs
-chrome extension to control all opened youtube videos 
+Chrome extension to control all opened youtube videos 
+
 ## Synopsis
 
 This chrome extension have only two buttons until now to pause all playing youtube videos and play it again
@@ -14,7 +15,7 @@ Sometimes you open a lot of tabs and you don't know which one is playing your vi
 
 ## Contributors
 
-for all contributors, try it and enhance whatever you see missing 
+For all contributors, try it and enhance whatever you see missing 
 
 ## License
 
