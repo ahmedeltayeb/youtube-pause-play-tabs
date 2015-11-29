@@ -7,7 +7,7 @@ This chrome extension have only two buttons until now to pause all playing youtu
 
 ## Installation
 
-You just clone it and use developer mode in google chrome browser to load it 
+You just clone it and use developer mode in Google Chrome Browser to load it 
 
 ## Motivation
 
